@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.17",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Emotion_Project_C_2",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
