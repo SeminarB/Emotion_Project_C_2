@@ -22,17 +22,17 @@
     },
     {
       "Name": "PythonAutomation",
-      "Type": "Editor",
+      "Type": "Runtime",
       "LoadingPhase": "PostDefault"
     },
     {
       "Name": "PythonConsole",
-      "Type": "Editor",
+      "Type": "Runtime",
       "LoadingPhase": "PostDefault"
     },
     {
       "Name": "PythonEditor",
-      "Type": "Editor",
+      "Type": "Runtime",
       "LoadingPhase": "PostDefault"
     }
   ],
