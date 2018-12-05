@@ -1,4 +1,4 @@
-from mutagen.mp3 import MP3 as mp3
+﻿from mutagen.mp3 import MP3 as mp3
 from gtts import gTTS
 import pygame
 import time
@@ -6,8 +6,8 @@ import speech_recognition as sr
 import re
 
 while True:
-	tts = gTTS("好きな食べ物は何ですか？",lang='ja') #音声作成
-	tts.save('会話06.mp3')
+	#tts = gTTS("好きな食べ物は何ですか？",lang='ja') #音声作成
+	#tts.save('会話06.mp3')
 	filename = '会話06.mp3' #再生したいmp3ファイル
 	pygame.mixer.init()
 	pygame.mixer.music.load(filename) #音源を読み込み
