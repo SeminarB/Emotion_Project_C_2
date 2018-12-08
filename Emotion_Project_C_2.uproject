@@ -20,6 +20,10 @@
 		{
 			"Name": "KinectPlugin",
 			"Enabled": true
+		},
+		{
+			"Name": "Webcamera",
+			"Enabled": true
 		}
 	]
 }
