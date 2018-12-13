@@ -1,5 +1,5 @@
 import subprocess
  
-cmd = "Python write.py"
+cmd = "python wiki4.py"
 subprocess.Popen(cmd.split())
  
