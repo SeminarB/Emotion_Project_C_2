@@ -1,7 +1,0 @@
-/Binaries/**/*.pdb
-/Binaries/**/*Debug*
-/Binaries/**/*.modules
-/Binaries/**/UE4*
-**Thumbs.db
-Intermediate/*
-/Intermediate/
